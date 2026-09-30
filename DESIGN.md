@@ -3,9 +3,11 @@
 ## Status
 
 - Direção visual aprovada: **Editorial Atlântico refinado pela Duna**.
+- Aprovação visual provisória registrada em **30 de setembro de 2026**.
 - Este documento é a fonte de verdade visual para as sete páginas do site.
 - O site existente é a base. O objetivo é refiná-lo, não substituí-lo por uma linguagem mais neutra.
 - Alterações de interface devem preservar a autoridade visual, a escala tipográfica e o ritmo editorial já alcançados.
+- Refinamento de acabamento e animações ficam reservados para uma etapa posterior, buscando maior equivalência de qualidade com a referência Surfing sem copiá-la literalmente.
 
 ## 1. Tese visual
 
@@ -466,3 +468,9 @@ Antes de considerar uma alteração visual concluída:
 O norte visual não é “deixar tudo suave”. É **manter o impacto profissional da versão atual e elevar sua consistência**.
 
 A Duna Atlântica atua em superfícies, tipografia, ritmo, detalhes e componentes. A energia permanece no hero, nas imagens, na escala e na personalidade EXPRESSO LOCAL.
+
+## 19. Referência para a próxima etapa
+
+- Surfing template: <https://surfing-template.framer.website/>
+- Usar como referência de qualidade para ritmo, transições, movimento, acabamento de componentes e comportamento responsivo.
+- Preservar conteúdo, identidade e decisões próprias da EXPRESSO LOCAL; a referência orienta qualidade e comportamento, não cópia visual literal.
